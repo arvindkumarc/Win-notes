@@ -18,6 +18,7 @@ namespace Note_a_rious
 {
     public partial class DetailsPage : PhoneApplicationPage
     {
+        private Storage storage = new Storage();
         // Constructor
         public DetailsPage()
         {
@@ -37,11 +38,8 @@ namespace Note_a_rious
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            IsolatedStorageFile myIsolatedStorage = IsolatedStorageFile.GetUserStoreForApplication(); 
-            textBox1.Text
+            storage.Save(textBox1.Text);
         }
-
-
 
     }
 }

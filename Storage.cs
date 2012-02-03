@@ -21,8 +21,10 @@ namespace Note_a_rious
         {
             if (!storage.DirectoryExists("Text"))
                 storage.CreateDirectory("Text");
-            StreamWriter writeFile = new StreamWriter(new IsolatedStorageFileStream("Text/" + DateTime.Now, FileMode.CreateNew, storage));
-            writeFile.Write(ContentToBeSaved);
+            StreamWriter writeFile = new StreamWriter(new IsolatedStorageFileStream("Text/" + DateTime.Now, FileMode.CreateNew, storage)));
+            {
+                writeFile.Write(ContentToBeSaved);
+            };
         }
     }
 }
