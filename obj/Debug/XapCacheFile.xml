@@ -1,8 +1,11 @@
-﻿<xapCache source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\Bin\Debug\Note_a_rious.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/3/2012 7:04:11 PM">
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/3/2012 7:04:11 PM" />
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\Background.png" archivePath="Background.png" lastWriteTime="2/3/2012 7:04:01 PM" />
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/3/2012 7:04:01 PM" />
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\obj\Debug\Note-a-rious.dll" archivePath="Note-a-rious.dll" lastWriteTime="2/3/2012 7:04:10 PM" />
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2/3/2012 7:04:01 PM" />
-  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Note-a-rious\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/3/2012 7:04:11 PM" />
+﻿<xapCache source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Bin\Debug\Note_a_rious.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/3/2012 8:17:23 PM">
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/3/2012 7:57:25 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Background.png" archivePath="Background.png" lastWriteTime="2/3/2012 7:04:01 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\post_it_48.png" archivePath="post_it_48.png" lastWriteTime="2/3/2012 7:06:48 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\obj\Debug\Note-a-rious.dll" archivePath="Note-a-rious.dll" lastWriteTime="2/3/2012 8:17:23 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Drawing.dll" archivePath="Microsoft.Expression.Drawing.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/3/2012 7:04:01 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2/3/2012 7:04:01 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/3/2012 8:10:21 PM" />
+  <file source="C:\Users\Arvind\Documents\Visual Studio 2010\Projects\Note-a-rious\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/3/2012 7:04:01 PM" />
 </xapCache>
