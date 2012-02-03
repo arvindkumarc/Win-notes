@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010 Express for Windows Phone
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note-a-rious", "Note-a-rious\Note-a-rious.csproj", "{6D1E9A4B-EFA6-4432-B882-654365EDCF79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note-a-rious", "Note-a-rious.csproj", "{B16836B2-1682-4E1F-84BA-E5DACDD46893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D1E9A4B-EFA6-4432-B882-654365EDCF79}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16836B2-1682-4E1F-84BA-E5DACDD46893}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
