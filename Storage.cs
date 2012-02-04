@@ -15,16 +15,22 @@ namespace Note_a_rious
 {
     public class Storage
     {
-        IsolatedStorageFile storage = IsolatedStorageFile.GetUserStoreForApplication();
+        
 
         public void Save(String ContentToBeSaved)
         {
-            if (!storage.DirectoryExists("Text"))
-                storage.CreateDirectory("Text");
-            StreamWriter writeFile = new StreamWriter(new IsolatedStorageFileStream("Text/" + DateTime.Now, FileMode.CreateNew, storage)));
+            
+            using (IsolatedStorageFile storage = IsolatedStorageFile.GetUserStoreForApplication())
             {
-                writeFile.Write(ContentToBeSaved);
-            };
+                using (IsolatedStorageFileStream stream = new IsolatedStorageFileStream(String.Concat(storage.GetFileNames().Length + 1), FileMode.CreateNew, storage))
+                {
+                    using (StreamWriter writeFile = new StreamWriter(stream))
+                    {
+                        writeFile.WriteLine(ContentToBeSaved);
+                    }
+                }
+            }
+            
         }
     }
 }
