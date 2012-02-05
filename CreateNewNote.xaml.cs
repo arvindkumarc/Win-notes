@@ -41,5 +41,18 @@ namespace Note_a_rious
             storage.Save(textBox1.Text);
         }
 
+
+        protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
+        {
+            base.OnNavigatedFrom(e);
+            if (!textBox1.Text.Equals(""))
+            {
+                if (MessageBoxResult.OK == MessageBox.Show("Do you want to save the text ?", "Save ?", MessageBoxButton.OKCancel))
+                {
+                    storage.Save(textBox1.Text);
+                }
+            }
+        }
+
     }
 }

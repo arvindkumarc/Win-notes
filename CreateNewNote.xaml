@@ -30,7 +30,7 @@
 
         <!--ContentPanel contains details text. Place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBox Height="617" HorizontalAlignment="Left" Margin="6,6,0,0" Name="textBox1" Text="" VerticalAlignment="Top" Width="444" FontFamily="/Note-a-rious;component/Fonts/Fonts.zip#Miramonte" Background="{StaticResource PhoneTextBoxEditBackgroundBrush}" Foreground="{StaticResource PhoneTextBoxForegroundBrush}" FontSize="26.667" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+            <TextBox Height="617" HorizontalAlignment="Left" Margin="6,6,0,0" Name="textBox1" Text="" VerticalAlignment="Top" Width="444" FontFamily="/Note-a-rious;component/Fonts/Fonts.zip#Miramonte" Background="{StaticResource PhoneTextBoxEditBackgroundBrush}" Foreground="{StaticResource PhoneTextBoxForegroundBrush}" FontSize="28" TextWrapping="Wrap" AcceptsReturn="True" FontWeight="Bold"></TextBox>
             <Button Content="Save" Height="72" HorizontalAlignment="Left" Margin="6,611,0,0" Name="save" VerticalAlignment="Top" Width="444" AllowDrop="False" Click="button1_Click" />
         </Grid>
     </Grid>
